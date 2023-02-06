@@ -22,3 +22,9 @@ end
 
 
 puts add(1,3) + add(2,2)
+
+#learning again
+
+puts "Hello World!"
+print "Pass this test, please."
+pp [1,2,3,]
